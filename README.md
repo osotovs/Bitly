@@ -7,7 +7,7 @@ This utility allows you to shorten links through the bitly service, as well as t
 Register at [bitly](https://app.bitly.com/) to receive an access token. in the script folder create the '.env' file. 
 Write in it 
 
-```BITLY_TOKEN = "Bearer [access token]"```
+```BITLY_TOKEN='Bearer [access token]'```
 	
 Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
 
